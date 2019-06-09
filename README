@@ -9,6 +9,7 @@ This file has no README or metadata associated with it in the City of Cape Town 
 The raw CSV was converted to a 'tidy data' format using Python 3.6 in Jupyter Notebook where the steps 
 are described in details along with the commands.
 
-The Python script outputs a single file per dam containing the aggregated dam levels per month for 
-the dates provided in the raw data. The new files are available from the folder metabolism_files.
+The Python script outputs two files:
 
+- a file containing aggregated mean dam level as percentage for each month - all dams from January 2012 - May 2019
+- a file containing aggregated mean dam level as volume (capacity) in millions of litres (ML) for each month - all dams from January 2012 - May 2019
