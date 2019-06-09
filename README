@@ -13,3 +13,5 @@ The Python script outputs two files:
 
 - a file containing aggregated mean dam level as percentage for each month - all dams from January 2012 - May 2019
 - a file containing aggregated mean dam level as volume (capacity) in millions of litres (ML) for each month - all dams from January 2012 - May 2019
+
+The data was uploaded to [Metabolism of Cities](https://metabolismofcities.org) on 9 June 2019
